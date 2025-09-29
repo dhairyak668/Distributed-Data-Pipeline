@@ -1,2 +1,22 @@
 # Ignore virtual environment
 .venv/
+
+# Ignore large JAR files
+jars/
+*.jar
+
+# Ignore datasets (optional - you may want to keep small datasets)
+datasets/
+
+# Ignore results/output files
+results/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
