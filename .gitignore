@@ -5,8 +5,6 @@
 jars/
 *.jar
 
-# Ignore datasets (optional - you may want to keep small datasets)
-datasets/
 
 # Ignore results/output files
 results/
