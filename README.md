@@ -181,9 +181,6 @@ Place additional JAR files in the `jars/` directory:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is part of CPRE 450 coursework at Iowa State University.
 
 ## Troubleshooting
 
